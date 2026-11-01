@@ -1,0 +1,71 @@
+What If You Became a Hacker for 30 Days? — Voiceover script
+
+
+--- Scene 1 ---
+NARRATOR: Imagine this. One quiet evening, a strange message pops up on Mike's computer.
+NARRATOR: It says: You have thirty days to become a hacker. What will you do?
+MIKE: Wait. If I became a hacker for one month, would I be able to open any computer?
+NARRATOR: Movies often show hackers typing a few commands and instantly gaining access to the entire world. Real life is very different.
+NARRATOR: The word hacker can describe a criminal, or a cybersecurity professional who looks for weaknesses in order to protect systems.
+
+--- Scene 2 ---
+NARRATOR: Mike now has two possible paths.
+NARRATOR: The first path is illegal: breaking into accounts, stealing information, reading private messages, or damaging websites.
+NARRATOR: The second path is ethical cybersecurity. Here, a professional receives permission, tests a system within agreed limits, reports problems, and helps fix them.
+MIKE: So the important question isn't only what I can do. It's whether I have permission to do it.
+NARRATOR: Exactly.
+
+--- Scene 3 ---
+NARRATOR: On day one, Mike writes down three simple rules.
+NARRATOR: Rule one: get permission. Rule two: know the limits. Rule three: report safely.
+NARRATOR: He will only test systems he owns, or systems where he has clear permission. That could be his own computer, a training platform, or a security lab built for practice.
+MIKE: I will not test a bank, a stranger's social media account, or my neighbor's computer.
+NARRATOR: Even if a system looks poorly protected, that does not give anyone the right to interfere with it. Permission comes before curiosity.
+
+--- Scene 4 ---
+NARRATOR: During the first week, Mike studies the basics.
+NARRATOR: He learns how websites work, why software updates matter, why multi-factor authentication is important, and why one password should never be reused everywhere.
+NARRATOR: He also learns that cybersecurity is not only about computers. Backups, careful communication, privacy, and employee training matter too.
+MIKE: So sometimes the biggest security problem begins with one careless click?
+NARRATOR: Yes. That's why cybersecurity professionals study both technology and human behavior.
+
+--- Scene 5 ---
+NARRATOR: So what may Mike do legally? Quite a lot, actually.
+NARRATOR: He may review the security of his own computer, his phone, and his home network.
+NARRATOR: He may practice in training labs, platforms designed specifically for cybersecurity education.
+NARRATOR: He may join authorized competitions, where the rules clearly define what is allowed.
+NARRATOR: And if he notices a possible security problem, he should use the organization's official reporting channel. He should never publish private information, or use the problem for personal gain.
+
+--- Scene 6 ---
+NARRATOR: He can also help his family. Mike shows his relatives how to turn on multi-factor authentication, update their devices, use stronger passwords, and create backups.
+NARRATOR: Then he hangs a new poster on his wall: Permission first. Testing second.
+
+--- Scene 7 ---
+NARRATOR: But some actions can never be justified. Not by curiosity, and not by a desire to prove technical skill.
+NARRATOR: Mike must not guess or steal passwords, enter another person's account, or read private messages.
+NARRATOR: He must not install malicious software, shut down websites, or demand money.
+NARRATOR: He must not publish someone else's private data, or test banks, hospitals, government systems, or other critical services without explicit authorization.
+NARRATOR: And he must never use a security weakness for personal gain.
+
+--- Scene 8 ---
+NARRATOR: So Mike pushes that temptation away.
+MIKE: Even if I can do something, that doesn't mean I'm allowed to do it.
+
+--- Scene 9 ---
+NARRATOR: Near the end of the month, an unexpected email arrives.
+MIKE: We found a security problem. Prove you're a real hacker. Send us user data?
+MIKE: This looks suspicious. I won't send private data, or open unknown files.
+NARRATOR: Mike verifies the sender through an official channel. He does not click suspicious links, open unknown attachments, or share confidential information.
+NARRATOR: Sometimes, the most important cybersecurity skill is knowing when to stop.
+NARRATOR: An unknown message is never a reason to take a risk.
+
+--- Scene 10 ---
+NARRATOR: Thirty days later, the month is over.
+NARRATOR: Mike has turned on multi-factor authentication, updated his devices, created backups, studied the security basics, and even submitted a responsible security report.
+NARRATOR: He hasn't become a movie hero. He can't open every computer in the world, and he hasn't learned how to disappear from the internet.
+NARRATOR: But he has become more careful, more knowledgeable, and better prepared to protect himself, and the people he cares about.
+
+--- Scene 11 ---
+MIKE: A real cybersecurity professional doesn't break into other people's digital homes. They help find the weak spots before criminals can use them.
+NARRATOR: If you want to learn cybersecurity, start with digital safety, basic programming, networking, and privacy. Practice only on authorized training platforms, and always report problems responsibly.
+NARRATOR: Because curiosity is useful. But permission is essential.

@@ -1,0 +1,351 @@
+1
+00:00:00,800 --> 00:00:02,209
+Imagine this.
+
+2
+00:00:02,209 --> 00:00:07,422
+One quiet evening, a strange message pops up on Mike's computer.
+
+3
+00:00:07,422 --> 00:00:10,755
+It says: You have thirty days to become a hacker.
+
+4
+00:00:10,755 --> 00:00:12,512
+What will you do?
+
+5
+00:00:12,662 --> 00:00:13,513
+Wait.
+
+6
+00:00:13,513 --> 00:00:17,912
+If I became a hacker for one month, would I be able to open any computer?
+
+7
+00:00:18,062 --> 00:00:23,391
+Movies often show hackers typing a few commands and instantly gaining access
+
+8
+00:00:23,391 --> 00:00:25,114
+to the entire world.
+
+9
+00:00:25,114 --> 00:00:27,704
+Real life is very different.
+
+10
+00:00:27,704 --> 00:00:32,945
+The word hacker can describe a criminal, or a cybersecurity professional who
+
+11
+00:00:32,945 --> 00:00:36,575
+looks for weaknesses in order to protect systems.
+
+12
+00:00:38,758 --> 00:00:41,541
+Mike now has two possible paths.
+
+13
+00:00:41,541 --> 00:00:46,721
+The first path is illegal: breaking into accounts, stealing information,
+
+14
+00:00:46,721 --> 00:00:50,652
+reading private messages, or damaging websites.
+
+15
+00:00:50,652 --> 00:00:54,040
+The second path is ethical cybersecurity.
+
+16
+00:00:54,040 --> 00:00:59,225
+Here, a professional receives permission, tests a system within agreed limits,
+
+17
+00:00:59,225 --> 00:01:02,284
+reports problems, and helps fix them.
+
+18
+00:01:02,434 --> 00:01:05,701
+So the important question isn't only what I can do.
+
+19
+00:01:05,701 --> 00:01:07,985
+It's whether I have permission to do it.
+
+20
+00:01:08,135 --> 00:01:09,265
+Exactly.
+
+21
+00:01:11,425 --> 00:01:15,348
+On day one, Mike writes down three simple rules.
+
+22
+00:01:15,348 --> 00:01:17,246
+Rule one: get permission.
+
+23
+00:01:17,246 --> 00:01:19,380
+Rule two: know the limits.
+
+24
+00:01:19,380 --> 00:01:21,884
+Rule three: report safely.
+
+25
+00:01:21,884 --> 00:01:27,104
+He will only test systems he owns, or systems where he has clear permission.
+
+26
+00:01:27,104 --> 00:01:34,078
+That could be his own computer, a training platform, or a security lab built for practice.
+
+27
+00:01:34,228 --> 00:01:39,657
+I will not test a bank, a stranger's social media account, or my neighbor's computer.
+
+28
+00:01:39,807 --> 00:01:44,534
+Even if a system looks poorly protected, that does not give anyone the right
+
+29
+00:01:44,534 --> 00:01:46,160
+to interfere with it.
+
+30
+00:01:46,160 --> 00:01:48,652
+Permission comes before curiosity.
+
+31
+00:01:50,842 --> 00:01:54,392
+During the first week, Mike studies the basics.
+
+32
+00:01:54,392 --> 00:01:59,745
+He learns how websites work, why software updates matter, why multi-factor
+
+33
+00:01:59,745 --> 00:02:06,372
+authentication is important, and why one password should never be reused everywhere.
+
+34
+00:02:06,372 --> 00:02:11,318
+He also learns that cybersecurity is not only about computers.
+
+35
+00:02:11,318 --> 00:02:17,190
+Backups, careful communication, privacy, and employee training matter too.
+
+36
+00:02:17,340 --> 00:02:22,001
+So sometimes the biggest security problem begins with one careless click?
+
+37
+00:02:22,151 --> 00:02:23,163
+Yes.
+
+38
+00:02:23,163 --> 00:02:28,995
+That's why cybersecurity professionals study both technology and human behavior.
+
+39
+00:02:31,175 --> 00:02:33,328
+So what may Mike do legally?
+
+40
+00:02:33,328 --> 00:02:35,244
+Quite a lot, actually.
+
+41
+00:02:35,244 --> 00:02:41,145
+He may review the security of his own computer, his phone, and his home network.
+
+42
+00:02:41,145 --> 00:02:45,853
+He may practice in training labs, platforms designed specifically for
+
+43
+00:02:45,853 --> 00:02:48,041
+cybersecurity education.
+
+44
+00:02:48,041 --> 00:02:54,286
+He may join authorized competitions, where the rules clearly define what is allowed.
+
+45
+00:02:54,286 --> 00:02:58,433
+And if he notices a possible security problem, he should use the
+
+46
+00:02:58,433 --> 00:03:01,474
+organization's official reporting channel.
+
+47
+00:03:01,474 --> 00:03:07,191
+He should never publish private information, or use the problem for personal gain.
+
+48
+00:03:09,342 --> 00:03:11,418
+He can also help his family.
+
+49
+00:03:11,418 --> 00:03:16,880
+Mike shows his relatives how to turn on multi-factor authentication, update
+
+50
+00:03:16,880 --> 00:03:21,654
+their devices, use stronger passwords, and create backups.
+
+51
+00:03:21,654 --> 00:03:25,599
+Then he hangs a new poster on his wall: Permission first.
+
+52
+00:03:25,599 --> 00:03:26,953
+Testing second.
+
+53
+00:03:29,133 --> 00:03:32,120
+But some actions can never be justified.
+
+54
+00:03:32,120 --> 00:03:37,371
+Not by curiosity, and not by a desire to prove technical skill.
+
+55
+00:03:37,371 --> 00:03:43,026
+Mike must not guess or steal passwords, enter another person's account, or
+
+56
+00:03:43,026 --> 00:03:45,257
+read private messages.
+
+57
+00:03:45,257 --> 00:03:51,104
+He must not install malicious software, shut down websites, or demand money.
+
+58
+00:03:51,104 --> 00:03:56,309
+He must not publish someone else's private data, or test banks, hospitals,
+
+59
+00:03:56,309 --> 00:04:02,346
+government systems, or other critical services without explicit authorization.
+
+60
+00:04:02,346 --> 00:04:06,296
+And he must never use a security weakness for personal gain.
+
+61
+00:04:08,467 --> 00:04:11,393
+So Mike pushes that temptation away.
+
+62
+00:04:11,543 --> 00:04:15,035
+Even if I can do something, that doesn't mean I'm allowed to do it.
+
+63
+00:04:17,217 --> 00:04:21,503
+Near the end of the month, an unexpected email arrives.
+
+64
+00:04:21,653 --> 00:04:23,452
+We found a security problem.
+
+65
+00:04:23,452 --> 00:04:24,971
+Prove you're a real hacker.
+
+66
+00:04:24,971 --> 00:04:26,602
+Send us user data?
+
+67
+00:04:26,602 --> 00:04:28,085
+This looks suspicious.
+
+68
+00:04:28,085 --> 00:04:31,782
+I won't send private data, or open unknown files.
+
+69
+00:04:31,932 --> 00:04:35,368
+Mike verifies the sender through an official channel.
+
+70
+00:04:35,368 --> 00:04:40,548
+He does not click suspicious links, open unknown attachments, or share
+
+71
+00:04:40,548 --> 00:04:42,948
+confidential information.
+
+72
+00:04:42,948 --> 00:04:48,623
+Sometimes, the most important cybersecurity skill is knowing when to stop.
+
+73
+00:04:48,623 --> 00:04:52,754
+An unknown message is never a reason to take a risk.
+
+74
+00:04:54,925 --> 00:04:57,905
+Thirty days later, the month is over.
+
+75
+00:04:57,905 --> 00:05:03,788
+Mike has turned on multi-factor authentication, updated his devices, created
+
+76
+00:05:03,788 --> 00:05:11,073
+backups, studied the security basics, and even submitted a responsible security report.
+
+77
+00:05:11,073 --> 00:05:13,322
+He hasn't become a movie hero.
+
+78
+00:05:13,322 --> 00:05:17,542
+He can't open every computer in the world, and he hasn't learned how to
+
+79
+00:05:17,542 --> 00:05:19,756
+disappear from the internet.
+
+80
+00:05:19,756 --> 00:05:24,290
+But he has become more careful, more knowledgeable, and better prepared to
+
+81
+00:05:24,290 --> 00:05:27,421
+protect himself, and the people he cares about.
+
+82
+00:05:29,592 --> 00:05:34,623
+A real cybersecurity professional doesn't break into other people's digital homes.
+
+83
+00:05:34,623 --> 00:05:38,301
+They help find the weak spots before criminals can use them.
+
+84
+00:05:38,451 --> 00:05:43,254
+If you want to learn cybersecurity, start with digital safety, basic
+
+85
+00:05:43,254 --> 00:05:46,187
+programming, networking, and privacy.
+
+86
+00:05:46,187 --> 00:05:52,921
+Practice only on authorized training platforms, and always report problems responsibly.
+
+87
+00:05:52,921 --> 00:05:55,240
+Because curiosity is useful.
+
+88
+00:05:55,240 --> 00:05:57,163
+But permission is essential.
