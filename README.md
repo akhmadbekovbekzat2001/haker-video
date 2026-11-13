@@ -23,6 +23,7 @@ To download a file: click it, then click the **Download raw file** button (arrow
 |---|---|
 | `Soyuz_11_The_Only_People_Who_Died_in_Space_1080p.mp4` | The finished video |
 | `Soyuz_11_YouTube_upload_text.md` | Titles, description, keywords |
+| `Soyuz_11_thumbnail_1280x720.jpg` | YouTube thumbnail |
 
 # Boesmansgat: 270 Meters Down
 
@@ -32,3 +33,4 @@ To download a file: click it, then click the **Download raw file** button (arrow
 |---|---|
 | `Boesmansgat_270m_The_Deepest_Promise_1080p.mp4` | The finished video |
 | `Boesmansgat_YouTube_upload_text.md` | Titles, description, keywords |
+| `Boesmansgat_thumbnail_1280x720.jpg` | YouTube thumbnail |
